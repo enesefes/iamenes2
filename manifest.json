@@ -1,0 +1,23 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "İamEnes",
+	"scope" : "/",
+	"display" : "fullscreen",
+	"start_url" : "https://www.iamenes.com/",
+	"short_name" : "Enes",
+	"theme_color" : "transparent",
+	"description" : "This app about life of Enes",
+	"orientation" : "natural",
+	"background_color" : "transparent",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "https://www.iamenes.com/assets/images/asset-0-122x80.png",
+			"sizes": "122x80"
+		}],
+	"url" : "https://www.iamenes.com",
+	"screenshots" : [],
+	"generated" : "true"
+}
